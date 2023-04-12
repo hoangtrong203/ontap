@@ -1,1 +1,1 @@
-Đây là file test.txt thuộc về mỗi nhánh "test".
+file test này thuộc về nhánh "main và test"
