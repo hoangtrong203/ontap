@@ -1,1 +1,1 @@
-file test này thuộc về nhánh "main và test".
+file test này thuộc về nhánh "main và test"
